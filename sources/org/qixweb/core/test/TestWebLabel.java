@@ -33,7 +33,7 @@ public class TestWebLabel extends TestCase
 
     public void testAccent() throws Exception
     {
-        assertEquals("&agrave;", new WebLabel("à").toString());
+        assertEquals("&agrave;", new WebLabel("Ã ").toString());
     }
 
     public void testTrim() throws Exception

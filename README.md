@@ -1,7 +1,8 @@
 Qixweb: a lightweight java web framework
 ======
 
-*qixweb* is a simple, easy, lightweight framework for building webapps by means of [Application Controllers](http://www.martinfowler.com/eaaCatalog/applicationController.html)
+*qixweb* is a simple, easy, lightweight framework for building webapps by means of [Application Controllers](http://www.martinfowler.com/eaaCatalog/applicationController.html). It shields the application domain from web-related layers (stateless protocol, markup UI, ...).
+
 
 *qixweb* was born by refactoring a few XP projects from the ground up. 
 Its essential elements are:

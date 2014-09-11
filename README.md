@@ -14,3 +14,6 @@ Its essential elements are:
 * an abstraction of __browser__, __url__ and __link__ that keep nodes & commands well separated in turn from servlets and container aspects ==> it is therefore possible to test all the dynamic navigation logic server side without working with html, http or containers
 
 * an abstraction of __response handler__ and __renderer__ that enables browser to use template engines like [Velocity](http://velocity.apache.org/) on one side and that opens the world of multichannel applications on the other side
+
+## How To Start
+We have a spike project that you can check as an example: WebAppSample.

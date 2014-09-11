@@ -17,3 +17,7 @@ Its essential elements are:
 
 ## How To Start
 We have a spike project that you can check as an example: [WebAppSample](http://docs.codehaus.org/display/QIX/WebAppSample).
+
+## Legacy links
+* [Original wiki on codehaus](http://docs.codehaus.org/display/QIX/Home)
+* [Original repo on codehaus](https://xircles.codehaus.org/p/qixweb)
